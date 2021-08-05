@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Click.Capture.Upload</title>
+</head>
+<body>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+	<link rel="stylesheet" type="text/css" href="realpro2.0.css">
+	<script type="text/javascript" src="pro3.js"></script>
+
+	<!-- Load an icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="navbar">
+  <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a href="#"><i class="fa fa-fw fa-search"></i> Search</a>
+  <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a>
+  <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
+</div>
+<!-- MAIN (Center website) -->
+<div class="main">
+
+
+	<section id="header" class="jumbotron text-center">
+  	<h1 class="display-3">Catch.Capture.Upload</h1>
+  	<p class="lead">Find your inspiration.</p>
+
+  	<a href="" class="  btn btn-primary ">Upload Something</a>
+  	<a href="" class="  btn btn-success ">Art Something </a> 
+<!--
+  	<form>
+  		<p><input type="file" id="myFile" name="filename"></p>
+  	</form>-->
+  	
+  </section>				
+
+ <!--  <h1>Click.Capture.Upload</h1>  -->
+<hr>
+
+<h2>Upload your heart out</h2>
+<p>Resize the browser window to see the responsive effect.</p>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="mountains.jpg" alt="Mountains" style="width:100%">
+      <h3>Mountains</h3>
+      <p>Best view comes after </p> 
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="airballon.jpg" alt="Lights" style="width:100%">
+      <h3>Lights</h3>
+       <p>Let the light shine out of darkness</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="nature.jpg" alt="Nature" style="width:100%">
+      <h3>Sea</h3>
+      <p>Water is driving force of all nature</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="world.jpg" alt="Nature" style="width:100%">
+      <h3>World</h3>
+      <p>The world is yours to explore</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="flower.jpg" alt="Nature" style="width:100%">
+      <h3>Life</h3>
+      <p>Always bloosm</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="women.jpg" alt="Nature" style="width:100%">
+      <h3>Technology</h3>
+      <p>Evolving education</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="kids.jpg" alt="Nature" style="width:100%">
+      <h3>Fun</h3>
+      <p>You gotta have fun</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="superme.jpg" alt="Nature" style="width:100%">
+      <h3>Supreme</h3>
+      <p>American skateboarding</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="diya.jpg" alt="Nature" style="width:100%">
+      <h3>Fests</h3>
+      <p>Glam of Diyas</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="summer.jpg" alt="Nature" style="width:100%">
+      <h3>Summers</h3>
+      <p>Bloosming SunFlowers</p>
+    </div>
+   </div>
+    <div class="column">
+    <div class="content">
+      <img src="holi.jpg" alt="Nature" style="width:100%">
+      <h3>Holi</h3>
+      <p>Festival of colors</p>
+    </div>
+   </div>
+  <div class="column">
+    <div class="content">
+      <img src="icecream.jpg" alt="Nature" style="width:100%">
+      <h3>Ice-cream</h3>
+      <p>Saviours in Summers</p>
+    </div>
+  </div>
+
+</div>
+
+<div class="content">
+  <img src="scuba.jpg" alt="Bear" style="width:100%">
+  <h3>Scuba Diving-The Ultimate Adventure Sport </h3>
+  <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+Most sports are played with national pride at stake, and few others are played with a competitive streak. But there are certain sports that border on a particular way of living and are niche to adrenaline junkies. Scuba diving is one of them. </p>
+<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+The thrill of adventure and the rush of blood while taking that first dive into the deep blue waters are fantastic catalysts for most people who love adventure. Scuba diving is popular all over the world and in India, it is now picking up pace mainly due to the efforts of Planet Scuba India. The country’s first inland scuba diving school, based out of Bangalore, is aiming at making scuba diving one of the premier leisure activities for Bangaloreans, without the hassle of travelling to the diving hot spots across the country.</p>
+</div>
+
+</div>
+<div class="bg-img">
+  <form action="/action_page.php" class="container">
+    <h1>Login</h1>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <p><input type="file" id="myFile" name="filename"></p>
+
+ <!--  <form action="/action_page.php">
+  <input type="file" id="myFile" name="filename">
+  <input type="submit">
+</form> --> 
+
+    <button type="submit" class="btn">Login</button>
+  </form>
+</div>
+</body>
+</html>
